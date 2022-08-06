@@ -1,0 +1,80 @@
+[
+    {
+        "name" : "Accessoris",
+        "desc" : "Scrunchie Big Plain",
+        "source" : "scrunchie.png"
+    },
+
+    {
+        "name" : "Hijab Daily",
+        "desc" : "Poly Cotton Original Maroon",
+        "source" : "HEN_7795_600x.png"
+    },
+
+    { 
+        "name" : "Dress",
+        "desc" : "Arumi Dress Lavender",
+        "source" : "arumi-dress.png"
+    },
+
+    {
+        "name" : "Prayer Set (Mukena)",
+        "desc" : "Medina Prayer Set Sage (Mukena Satin)",
+        "source" : "mukena.jpg"
+    },
+
+    {
+        "name" : "Bag",
+        "desc" : "Jane Bag Caramel",
+        "source" : "bag.png"
+    },
+
+    {
+        "name" : "Accessoris",
+        "desc" : "Headloop Mask Pastel Flower",
+        "source" : "headloop.jpg"
+    },
+
+    {
+        "name" : "Tunik",
+        "desc" : "Saira Tunik Rustic",
+        "source" : "tunik.jpg"
+    },
+
+    {
+        "name" : "Blouse",
+        "desc" : "Kenura Blouse Soft Pink",
+        "source" : "blouse.jpg"
+    },
+
+    {
+        "name" : "One Set",
+        "desc" : "Rumi Set Navy",
+        "source" : "oneset.jpg"
+    },
+    
+    {
+        "name" : "Jacket",
+        "desc" : "Cocktail Orange Seri Jacket",
+        "source" : "jacket.jpg"
+    },
+    
+    {
+        "name" : "Pajamas",
+        "desc" : "Naura Pajamas Combine Watercolor Yellow",
+        "source" : "pajamas.jpg"
+    },
+
+    {
+        "name" : "Shirt",
+        "desc" : "Cathia Shirt Black",
+        "source" : "shirt.jpg"
+    },
+    {
+        "name" : "Pants",
+        "desc" : "Kumi Pants Cream Linen",
+        "source" : "pants.jpg"
+    }
+
+
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Asyroful Barokah",
+        "pics" : "orang1.jpg",
+        "town" : "Bangkalan",
+        "review" : "Terima Kasih Kak, di toko ini saya bisa menemukan barang yang sesuai ekspetasi pacar saya"
+    },
+    {
+        "name" : "Barokah",
+        "pics" : "person2.jpg",
+        "town" : "Surabaya",
+        "review" : "Kemarin saya membeli tas dan pashmina di sini untuk istri saya. Ternyata disini murah dan barangnya bagus"
+    },
+    {
+        "name" : "David Walker",
+        "pics" : "person3.jpg",
+        "town" : "Malang",
+        "review" : "This shop is my girlfriend's favorite, she says in the shop selling a good products with trendy in now and I'm agree about it "
+    },
+    {
+        "name" : "Ibrohim",
+        "pics" : "person4.jpg",
+        "town" : "Kediri",
+        "review" : "This shoes so really good, it's my wife favorite colour"
+    },
+    {
+        "name" : "Erica Liu",
+        "pics" : "person5.jpg",
+        "town" : "Malang",
+        "review" : "The color pashmina matches my outfit. Thank you Kak."
+    },
+    {
+        "name" : "Yolanda N",
+        "pics" : "person6.jpg",
+        "town" : "Semarang",
+        "review" : "The drees with accessoris was good and simple, and the color matches what the photos look like"
+    },
+    {
+        "name" : "Aisy Qanitah",
+        "pics" : "person7.jpg",
+        "town" : "Bangkalan",
+        "review" : "The quality is good for the price. Thanks for the promo and free ongkir"
+    },
+    {
+        "name" : "Nisa Kamila",
+        "pics" : "person8.jpg",
+        "town" : "Surabaya",
+        "review" : "I have been using product for last one year, and I'm loved it. Thank you for awesome business"
+    }
+]
